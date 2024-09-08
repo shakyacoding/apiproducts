@@ -1,0 +1,35 @@
+[
+  {
+    "name":"iphone",
+    "price":154,
+    "featured":true,
+    "company": "apple"
+  },
+  {
+    "name":"watch",
+    "price":10054,
+    "featured":true,
+    "company": "apple"
+  },
+  {
+    "name":"Refrigerator",
+    "price":20054,
+    "company": "samsung"
+  },
+  {
+    "name":"s20",
+    "price":3054,
+    "company": "nokia"
+  },
+  {
+    "name":"iphone10",
+    "price":354,
+    "company": "samsung"
+  },
+  {
+    "name":"sony-experia",
+    "price":12354,
+    "featured":true,
+    "company": "dell"
+  }
+]
